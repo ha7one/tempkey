@@ -9,9 +9,16 @@
   {
     "id": "92962eba2d1c121b",
     "username": "dolphin",
-    "password": "123456",
+    "password": "12345",
     "expiresAt": "2026-12-30",
-    "allowOffline": true
+    "allowOffline": false
+  },
+  {
+    "id": "92962eba2d1c121b",
+    "username": "dolphin1",
+    "password": "12345",
+    "expiresAt": "2026-12-30",
+    "allowOffline": false
   },
   {
     "id": "92962eba2d1c121b",
