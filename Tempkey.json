@@ -2,29 +2,29 @@
   {
     "id": "92962eba2d1c121b",
     "username": "zbook",
-    "password": "0000",
-    "expiresAt": "2024-07-14",
+    "password": "12345",
+    "expiresAt": "2025-08-14",
     "allowOffline": false
   },
   {
     "id": "92962eba2d1c121b",
+    "username": "zbook2",
+    "password": "12345",
+    "expiresAt": "2024-07-14",
+    "allowOffline": false
+  },
+  {
+    "id": "71aa1e9691063b2f",
     "username": "dolphin",
     "password": "12345",
     "expiresAt": "2026-12-30",
     "allowOffline": false
   },
   {
-    "id": "92962eba2d1c121b",
+    "id": "71aa1e9691063b2f",
     "username": "museeqar",
-    "password": "009645",
-    "expiresAt": "2025-08-01",
+    "password": "12345",
+    "expiresAt": "2024-08-01",
     "allowOffline": false
   },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
 ]
