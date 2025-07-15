@@ -1,5 +1,12 @@
 [
   {
+    "id": "92962eba2d1c121b",
+    "username": "zbook",
+    "password": "0000",
+    "expiresAt": "2026-01-01",
+    "allowOffline": false
+  },
+  {
     "id": "c479a460bc3e7857",
     "username": "dolphin",
     "password": "009645",
